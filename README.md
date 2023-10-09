@@ -20,7 +20,7 @@ cd FER
 pip install -r requirements.txt
 ```
 
-Download model parameter and data from  [[model_path](https://drive.google.com/drive/folders/1iiB9Hc3KLvgog3Bv-Wq8UovXv7Db7qFK?usp=sharing)] to to folders `save_model/`
+Download model parameter and data from  [[model_path](https://drive.google.com/drive/folders/1iiB9Hc3KLvgog3Bv-Wq8UovXv7Db7qFK?usp=sharing)] to to folders `save_model/` and `data/`
 
 
 ## Usage
